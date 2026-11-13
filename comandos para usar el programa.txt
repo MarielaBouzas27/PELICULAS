@@ -1,0 +1,5 @@
+python imdb_top_genre_scraper.py   genero 
+python imdb_top_year_scraper.py   por año
+python imdb_actor_scraper.py  por actor 
+python imdb_scraper.py las mejores 10 peliculas
+
